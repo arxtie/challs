@@ -30,7 +30,10 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### WIP and Finished Reviews
+[OvertheWire Bandit](https://arxtie.github.io/x/bandit)
+
+[Hackergateway](https://arxtie.github.io/x/hg)
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/arxtie/challs/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
