@@ -4,7 +4,7 @@ I will be covering the methods and solutions for many online security challenge 
 
 These pages were created for the purpose of review. The site is not for cheating in wargames/warzones/challs/ctfs. Please only use this site for educational reasons and not for a get-points-fast scheme. 
 
-[Sites!] (https://arxtie.github.io/x/list)
+[Sites](https://arxtie.github.io/x/list)
 
 ### Markdown
 
