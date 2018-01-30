@@ -1,8 +1,8 @@
 ## Welcome to ARS (UNDER CONSTRUCTION)
 
-These pages were created for the purpose of review. 
+I will be covering the methods and solutions for many online security challenge games. 
 
-The site is not for cheating in wargames/warzones/challs/ctfs. Please only use this site for educational reasons and not for a get-points-fast scheme. 
+These pages were created for the purpose of review. The site is not for cheating in wargames/warzones/challs/ctfs. Please only use this site for educational reasons and not for a get-points-fast scheme. 
 
 ### Markdown
 
