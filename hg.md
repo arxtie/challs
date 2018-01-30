@@ -1,6 +1,8 @@
-##Hackergateway Web Category
+## Hackergateway Web Category
 CAUTION: There are spoilers ahead for Hackergateway's Web category challenges. 
+
 For this category, we will sometimes be using a tool called [Fiddler](https://www.telerik.com/fiddler) made by Telerik.
+
 This is not a write up for beginners, so you might want to learn how to use Fiddler or browser developer tools first. 
 
 ### Voices In My Head
