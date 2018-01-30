@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to ARS (UNDER CONSTRUCTION)
 
-You can use the [editor on GitHub](https://github.com/arxtie/challs/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+These pages were created for the purpose of review. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The site is not for cheating in wargames/warzones/challs/ctfs. Please only use this site for educational reasons and not for a get-points-fast scheme. 
 
 ### Markdown
 
